@@ -1,0 +1,696 @@
+ene 11, 2020 2:32:23 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 2:32:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:33:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/43705e1a3f23140bf1.62782916.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 2:33:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received PushDataModel com.era.pushernotifications.data.PushDataModel@5a8ae4b7
+ene 20, 2020 10:43:50 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 20, 2020 10:43:52 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 20, 2020 10:44:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/255635e268fa2e8ecc2.56072639.png\",\"bannerAction\":\"https:\\\/\\\/www.free-css.com\\\/template-categories\\\/control-panel\"}"}, channel=era}
+ene 20, 2020 10:44:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received PushDataModel com.era.pushernotifications.data.PushDataModel@3a754139
+ene 20, 2020 10:51:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 10:51:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 10:51:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 10:51:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 10:51:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 10:51:14 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 10:51:14 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 10:51:14 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 10:51:14 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 10:51:14 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 10:53:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 10:53:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 10:53:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 10:53:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 10:53:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 10:53:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 10:53:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 10:53:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 10:53:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 10:53:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 10:53:33 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 10:53:33 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 10:53:33 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 10:53:33 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 10:53:33 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 10:53:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 10:53:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 10:53:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 10:53:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 10:53:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 10:54:16 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 10:54:16 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 10:54:16 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 10:54:16 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 10:54:16 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 10:54:16 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 10:54:16 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 10:54:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 10:54:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 10:54:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 10:56:58 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 10:56:58 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 10:56:58 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 10:56:58 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 10:56:58 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 10:56:59 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 10:56:59 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 10:56:59 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 10:56:59 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 10:56:59 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 10:58:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 10:58:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 10:58:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 10:58:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 10:58:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 10:58:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 10:58:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 10:58:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 10:58:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 10:58:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 10:59:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 10:59:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 10:59:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 10:59:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 10:59:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 10:59:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 10:59:49 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 10:59:49 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 10:59:49 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 10:59:49 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:00:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:00:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:00:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:00:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:00:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:00:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:00:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:00:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:00:20 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:00:20 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:00:47 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:00:47 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:00:47 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:00:47 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:00:47 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:00:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:00:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:00:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:00:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:00:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:05:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:05:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:05:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:05:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:05:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:05:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:05:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:05:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:05:49 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:05:49 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:07:20 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:07:21 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:07:21 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:07:21 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:07:21 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:07:21 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:07:21 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:07:21 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:07:21 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:07:21 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:08:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:08:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:08:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:08:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:08:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:08:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:08:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:08:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:08:18 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:08:18 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:10:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:10:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:10:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:10:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:10:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:10:20 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:10:20 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:10:20 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:10:20 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:10:20 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:11:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:11:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:11:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:11:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:11:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:11:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:11:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:11:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:11:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:11:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:12:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:12:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:12:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:12:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:12:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:12:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:12:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:12:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:12:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:12:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:12:51 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:12:51 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:12:51 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:12:51 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:12:51 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:12:51 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:12:51 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:12:51 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:12:51 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:12:52 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:18:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:18:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:18:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:18:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:18:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:18:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:18:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:18:16 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:18:16 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:18:16 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:19:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:19:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:19:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:19:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:19:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:19:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:19:19 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:19:20 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:19:20 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:19:20 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:20:53 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:20:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:20:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:20:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:20:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:20:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:20:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:20:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:20:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:20:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:22:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:22:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:22:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:22:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:22:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:22:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:22:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:22:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:22:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:22:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:23:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:23:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:23:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:23:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:23:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:23:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:23:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:23:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:23:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:23:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:23:38 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:23:38 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:23:38 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:23:38 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:23:38 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:23:38 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:23:38 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:23:38 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:23:38 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:23:39 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:24:47 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:24:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:24:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:24:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:24:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:24:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:24:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:24:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:24:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:24:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:26:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:26:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:26:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:26:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:26:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:26:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:26:17 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:26:18 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:26:18 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:26:18 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:26:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:26:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:26:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:26:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:26:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:26:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:26:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:26:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:26:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:26:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:27:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:27:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:27:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:27:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:27:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:27:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:27:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:27:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:27:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:27:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:28:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:28:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:28:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:28:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:28:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:28:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:28:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:28:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:28:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:28:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:28:33 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:28:33 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:28:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:28:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:28:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:28:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:28:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:28:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:28:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:28:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:30:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:30:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:30:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:30:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:30:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:30:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:30:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:30:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:30:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:30:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:31:14 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:31:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:31:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:31:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:31:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:31:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:31:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:31:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:31:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:31:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:31:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:31:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:31:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:31:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:31:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:31:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:31:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:31:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:31:48 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:31:49 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:32:12 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:32:12 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:32:12 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:32:12 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:32:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:32:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:32:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:32:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:32:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:32:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 11:32:59 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 11:33:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 11:33:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 11:33:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 11:33:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 11:33:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 11:33:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 11:33:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 11:33:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 11:33:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 23, 2020 2:38:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 23, 2020 2:38:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 23, 2020 2:38:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 23, 2020 2:38:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 23, 2020 2:38:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 23, 2020 2:38:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 23, 2020 2:38:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 23, 2020 2:38:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 23, 2020 2:38:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 23, 2020 2:38:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
