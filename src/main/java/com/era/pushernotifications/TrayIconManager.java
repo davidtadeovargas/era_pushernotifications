@@ -12,7 +12,7 @@ import java.awt.SystemTray;
 import java.awt.Toolkit;
 import java.awt.TrayIcon;
 import com.era.views.PushNotificationJFrame;
-import com.era.views.RenderViewManager;
+import com.era.views.ViewsFactory;
 
 /**
  *
@@ -73,7 +73,7 @@ public class TrayIconManager {
     
     final public void showPushNotification(final PushDataModel PushDataModel) throws Exception{
         
-        final PushNotificationJFrame PushNotificationJFrame = RenderViewManager.getSingleton().getPushNotificationJFrame(PushDataModel.getUrlBanner(),PushDataModel.getBannerAction());        
+        final PushNotificationJFrame PushNotificationJFrame = ViewsFactory.getSingleton().getPushNotificationJFrame(PushDataModel.getUrlBanner(),PushDataModel.getBannerAction());        
         PushNotificationJFrame.setSetVisibleWithEfect(true);
         PushNotificationJFrame.setVisible();
     }
