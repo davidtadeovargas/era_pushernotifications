@@ -73,7 +73,7 @@ public class TrayIconManager {
     
     final public void showPushNotification(final PushDataModel PushDataModel) throws Exception{
         
-        final PushNotificationJFrame PushNotificationJFrame = ViewsFactory.getSingleton().getPushNotificationJFrame(PushDataModel.getUrlBanner(),PushDataModel.getBannerAction());        
+        final PushNotificationJFrame PushNotificationJFrame = ViewsFactory.getSingleton().getPushNotificationViewController(PushDataModel.getUrlBanner(),PushDataModel.getBannerAction());        
         PushNotificationJFrame.setSetVisibleWithEfect(true);
         PushNotificationJFrame.setVisible();
     }
